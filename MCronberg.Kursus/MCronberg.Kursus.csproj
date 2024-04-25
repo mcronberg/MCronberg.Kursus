@@ -7,6 +7,8 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Typer brugt i kurser og foredrag</Title>
     <Company>mcronberg</Company>
+    <RepositoryUrl>https://github.com/mcronberg/MCronberg.Kursus</RepositoryUrl>
+    <Description>Simple typer (terning, spillekort, spillebunke mv) brugt i frobindelse med kurser og foredrag</Description>
   </PropertyGroup>
 
 </Project>
