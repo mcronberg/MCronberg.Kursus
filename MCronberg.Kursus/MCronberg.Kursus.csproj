@@ -9,6 +9,9 @@
     <Company>mcronberg</Company>
     <RepositoryUrl>https://github.com/mcronberg/MCronberg.Kursus</RepositoryUrl>
     <Description>Simple typer (terning, spillekort, spillebunke mv) brugt i frobindelse med kurser og foredrag</Description>
+    <Copyright></Copyright>
+    <PackageProjectUrl>https://github.com/mcronberg/MCronberg.Kursus</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
